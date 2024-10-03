@@ -17,7 +17,7 @@
 
 ### Esimene päev
 - Kõik tehtud töö on leitav Wiki alt " First day"
-- 
+  
 ### Teine päev
 - 
 ### Kolmas päev
