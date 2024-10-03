@@ -1,7 +1,7 @@
 # Meeskond "TEAM 3"
 
 ## Selle projekti eesmärk:
-- Õppida kasutama AI kasutamist.
+- Õppida kasutama AI-d.
   
 ## Töövahendite loetelu:
 ### Projektis kasutatud töövahendid:
